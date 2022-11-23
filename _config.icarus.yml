@@ -1,10 +1,10 @@
 version: 5.1.0
 variant: default
-logo: /img/logo.svg
+logo: /images/tiger_logo.jpg
 head:
-    favicon: /img/favicon.svg
+    favicon: /images/tiger_logo.jpg
     manifest:
-        name: 
+        name:
         short_name: 
         start_url: 
         theme_color: 
@@ -16,12 +16,12 @@ head:
                 sizes: ''
                 type: 
     open_graph:
-        title: 
-        type: blog
-        url: 
+        title: 1년차 백엔드 개발자의 기술 블로그
+        type:
+        url: https://suchanmyoung.github.io
         image: 
         site_name: 
-        author: 
+        author: Suchan Myoung
         description: 
         twitter_card: 
         twitter_id: 
@@ -45,7 +45,7 @@ navbar:
         Home: /
         Archives: /archives
         Categories: /categories
-        Tags: /tags
+#        Tags: /tags
         About: /about
 article:
     highlight:
