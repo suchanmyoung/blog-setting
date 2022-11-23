@@ -1,0 +1,51 @@
+#title in header
+title: "개발의 기쁨과 슬픔"
+
+#main info
+#owner
+owner: "Suchan Myoung"
+email: aud248@naver.com
+info: "1년차 백엔드 개발자입니다."
+#description
+desc: "문제를 정의하고 해결해 나가는 과정을 좋아합니다! 😁"
+
+#menu
+menu:
+  Works: /Works
+  About: /About
+
+#index/main page max show posts (in number)
+max_post: 4
+
+# Colors use hex color without #
+# Theme color
+tcolor: 0FA0CE
+
+# Define path to user css
+#(could be also located outside of theme)
+# Relative to source/ directory
+usercss: css/user.css
+
+# social profile at the footer/bottom
+footer: true
+github: https://github.com/suchanmyoung
+
+# Misc
+nanobar: /js/nanobar.min.js
+switch_light: ☀️
+switch_dark: 🌑
+
+# Picture enlargement
+picjs: /js/pic.min.js
+
+# favicon
+favicon: /images/favicon.png
+# thumbnail
+thumbnail: /images/thumbnail.jpg
+
+article:
+  thumbnail: true
+
+# DISQUS comments (sign up to Disqus to get disqus_shortname)
+disqus_enabled: true
+disqus_shortname: suchanmyoung-github-io
